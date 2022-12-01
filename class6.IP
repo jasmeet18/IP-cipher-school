@@ -1,0 +1,69 @@
+@@ -0,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Empty tags in HTML</title>
+</head>
+<body>
+    <!--Line Break-->
+    Two roads diverged in a yellow wood,
+    <br>
+    And sorry I could not travel both
+    <br>
+    And be one traveler, long I stood
+    <br>
+    And looked down one as far as I could
+    <br>
+    To where it bent in the undergrowth;
+    <br>
+
+    Then took the other, as just as fair,
+    <br>
+    And having perhaps the better claim,
+    <br>
+    Because it was grassy and wanted wear;
+    <br>
+    Though as for that the passing there
+    <br>
+    Had worn them really about the same,
+    <br>
+
+    <!--Line with Break-->
+    <p>
+        And both that morning equally lay
+        <br>
+        In leaves no step had trodden black.
+    </p>
+
+    <!--Spacing Format-->
+    <pre>Look at the stars! look, look up at the skies!
+        O look at all the fire-folk sitting in the air!
+        The bright boroughs, the circle-citadels there!
+     Down in dim woods the diamond delves! the elves'-eyes!
+     The grey lawns cold where gold, where quickgold lies!
+        Wind-beat whitebeam! airy abeles set on a flare!
+        Flake-doves sent floating forth at a farmyard scare! 
+     Ah well! it is all a purchase, all is a prize.
+     </pre>
+
+     <!--Using code inside para-->
+     <p>
+        You can include this styling in html with linking it to css or using
+         inline css and give the <code>(background-color:green)</code> with heading
+     </p>
+
+     <!--Forcing not to braek a line-->
+     <p>
+        I am 16 years old Hustler,Learner,explorer,Fronted Designer and MERN&nbsp;&nbsp;&nbsp;Developer
+     </p>
+
+
+
+
+
+</body>
+</html

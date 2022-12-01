@@ -1,0 +1,18 @@
+@@ -0,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Links & Navigation</title>
+</head>
+<body>
+    <!--Relative URL Paths-->
+    <a href="class10-Weird Characters in HTML-CipherSchools.html">Click here</a>
+
+    <!--Absolute URL paths-->
+    <a href="https://github.com/Samiksha0318">Github</a>
+</body>
+</html>

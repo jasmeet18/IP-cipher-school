@@ -1,0 +1,47 @@
+@@ -0,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>HTML tables</title>
+</head>
+<body>
+    <table>
+        <!--Table's Title-->
+        <thread>Table of Content</thread>
+        <!--Table's Body-->
+        <tbody>
+            <!--Table's Row-->
+            <tr>
+                <!--Table's column heading-->
+                <th>Name</th>
+                <th>Place</th>
+                <th>Hobby</th>
+                <th>Degree</th>
+            </tr>
+            <tr>
+                <!--Table data(Column)-->
+                <td>Sammy</td>
+                <td>Haryana</td>
+                <td>Gaming</td>
+                <td>B.Tech</td>
+            </tr>
+            <tr>
+                <td>Anushka</td>
+                <td>Bihar</td>
+                <td>Painting</td>
+                <td>Diploma</td>
+            </tr>
+            <tr>
+                <td>Riya</td>
+                <td>Bihar</td>
+                <td>Readinng</td>
+                <td>B.Sc</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,19 @@
+@@ -0,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Image mapping</title>
+</head>
+<body>
+  <img src="https://www.shutterstock.com/image-photo/html-inscription-against-laptop-code-260nw-1851522412.jpg" alt="HTML" usemap="#html">
+  <map name="html">
+    <area shape="rect" coords="34,44,270,350" alt="computer" href="computer.html">
+    <area shape="rect" coords="290,172,333,250" href="phone.html" alt="phone">
+    <area shape="circle" coords="337,300,44" href="cup.html" alt="cup">
+  </map>
+</body>
+</html>
